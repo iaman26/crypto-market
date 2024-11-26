@@ -1,0 +1,25 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_437_28584)">
+<path id="Vector" d="M12 24.5C18.6274 24.5 24 19.1274 24 12.5C24 5.87258 18.6274 0.5 12 0.5C5.37258 0.5 0 5.87258 0 12.5C0 19.1274 5.37258 24.5 12 24.5Z" fill="#0A17A7"/>
+<mask id="mask0_437_28584" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<g id="mask0">
+<path id="Vector_2" d="M12 24.5C18.6274 24.5 24 19.1274 24 12.5C24 5.87258 18.6274 0.5 12 0.5C5.37258 0.5 0 5.87258 0 12.5C0 19.1274 5.37258 24.5 12 24.5Z" fill="#0A17A7"/>
+</g>
+</mask>
+<g mask="url(#mask0_437_28584)">
+<g id="Group">
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M4.67327 16.4995L-4.77344 24.1458L-3.28226 26.7987L8.66667 17.1271V26.0995H15.3333V17.127L27.2827 26.7989L28.7739 24.146L19.3269 16.4995H26V8.49951H19.3258L28.7739 0.852141L27.2827 -1.80078L15.3333 7.87114V-1.10049H8.66667V7.871L-3.28223 -1.80056L-4.77341 0.852359L4.67439 8.49951H-2V16.4995H4.67327Z" fill="white"/>
+<path id="Vector_4" d="M16.668 8.09825L29.3333 -1.90039" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Vector_5" d="M18.0127 16.9375L29.3665 26.1209" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Vector_6" d="M6.00513 8.07188L-5.83789 -1.50586" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Vector_7" d="M7.28963 16.8262L-5.83789 27.2729" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Vector_8" fill-rule="evenodd" clip-rule="evenodd" d="M-2 14.9H10V24.5H14V14.9H26V10.1H14V0.5H10V10.1H-2V14.9Z" fill="#E6273E"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_437_28584">
+<rect width="24" height="24" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
